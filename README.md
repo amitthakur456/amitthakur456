@@ -7,7 +7,7 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 - 🔭 Currently working on several innovative Machine Learning and Web Development projects.
 - 🌱 Learning more about Data Structures and Algorithms in Python and JavaScript.
 - 💬 Feel free to ask me anything related to Machine Learning or Full-Stack Development.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-thakur/)
+- 📫 Connect with me on [LinkedIn]()
 
 ## 🛠️ Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
