@@ -19,3 +19,5 @@ I am a passionate developer who loves to work on cool and impactful projects.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-fff?&logo=twitter&logoColor=1DA1F2)](https://twitter.com/yourprofile)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
