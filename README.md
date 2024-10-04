@@ -1,23 +1,31 @@
-# Hi there, I'm Amit Thakur! 👋
+## Hello, I'm Amit Thakur 👋
 
 ## 🚀 About Me
-I am a passionate developer who loves to work on cool and impactful projects.
 
-- 🔭 I’m currently working on [YourProject](link-to-project)
-- 🌱 I’m currently learning [Skill/Technology]
-- 👯 I’m looking to collaborate on [Project/Area of interest]
-- 💬 Ask me about [Specific expertise]
-- 📫 How to reach me: [Your email/socials]
+I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
 
-## 🛠️ Tech Stack
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-- **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-fff?&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-fff?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=docker)
+- 🔭 Currently working on several innovative Machine Learning and Web Development projects.
+- 🌱 Learning more about Data Structures and Algorithms in Python and JavaScript.
+- 💬 Feel free to ask me anything related to Machine Learning or Full-Stack Development.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-thakur/)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
+## 🛠️ Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-fff?&logo=twitter&logoColor=1DA1F2)](https://twitter.com/yourprofile)
+## 💻 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitthakur456&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
+
+## 📈 GitHub Contributions
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amitthakur456&theme=radical)
+
+## 🏆 GitHub Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
