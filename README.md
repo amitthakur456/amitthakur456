@@ -30,4 +30,12 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
+# Calendar
+
+## October 2024
+
+- **October 10**: Project Meeting at 10 AM
+- **October 15**: Deadline for Feature X
+- **October 20**: Release Version 1.0
+
 
