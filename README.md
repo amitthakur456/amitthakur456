@@ -30,29 +30,18 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-# Monthly Performance Calendar - 2024
+# Welcome to My GitHub Profile
 
 ## Overview
-This document provides an overview of my performance and achievements throughout the year 2024. Below is the calendar for reference.
+I’m Amit Thakur, a passionate developer focusing on machine learning and data analysis.
 
-## Calendar
-![2024 Calendar](path/to/your/image.png)
+## My GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
 
-## Monthly Summary
+## Current Projects
+- Project A
+- Project B
+- Project C
 
-### January
-- **Achievements**: 
-  - Completed project X.
-  - Attended workshops on machine learning.
-- **Goals**: 
-  - Improve coding skills in Python.
-  
-### February
-- **Achievements**: 
-  - Started working on project Y.
-  - Collaborated with team members on feature Z.
-- **Goals**: 
-  - Enhance knowledge in data visualization.
-
-<!-- Continue this format for other months -->
-
+## Contact
+Feel free to reach out on [LinkedIn](your-linkedin-url) or [Twitter](your-twitter-url).
