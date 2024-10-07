@@ -30,20 +30,29 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-# Daily Performance - October 7, 2024
+# Monthly Performance Calendar - 2024
 
-## Achievements
-- ✅ Completed feature X development.
-- 🐛 Fixed bugs in module Y.
-- 🗓️ Attended the project meeting.
+## Overview
+This document provides an overview of my performance and achievements throughout the year 2024. Below is the calendar for reference.
 
-## Challenges
-- ⚠️ Encountered issues with integration testing, which took longer than expected.
+## Calendar
+![2024 Calendar](path/to/your/image.png)
 
-## Plans for Tomorrow
-- 🚀 Start working on feature Z.
-- 📖 Review the integration testing process.
+## Monthly Summary
 
-## Performance Diagram
-![Daily Performance](images/performance_diagram.png)
+### January
+- **Achievements**: 
+  - Completed project X.
+  - Attended workshops on machine learning.
+- **Goals**: 
+  - Improve coding skills in Python.
+  
+### February
+- **Achievements**: 
+  - Started working on project Y.
+  - Collaborated with team members on feature Z.
+- **Goals**: 
+  - Enhance knowledge in data visualization.
+
+<!-- Continue this format for other months -->
 
