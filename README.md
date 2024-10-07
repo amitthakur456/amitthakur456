@@ -45,4 +45,5 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 - 📖 Review the integration testing process.
 
 ## Performance Diagram
-![Daily Performance](path/to/your/performance_diagram.png)
+![Daily Performance](images/performance_diagram.png)
+
