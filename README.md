@@ -30,12 +30,24 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-# Calendar
+name: Update Calendar
 
-## October 2024
+on: 
+  push:
+    branches:
+      - main
 
-- **October 10**: Project Meeting at 10 AM
-- **October 15**: Deadline for Feature X
-- **October 20**: Release Version 1.0
+jobs:
+  update_calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Update Calendar
+        run: |
+          curl -X POST -H "Authorization: Bearer YOUR_API_KEY" \
+          -d '{"summary": "New Event", "start": {"dateTime": "2024-10-07T09:00:00-07:00"}, "end": {"dateTime": "2024-10-07T10:00:00-07:00"}}' \
+          "https://www.googleapis.com/calendar/v3/calendars/primary/events"
 
 
