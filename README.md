@@ -28,3 +28,6 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 
 ## 🏆 GitHub Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
+
