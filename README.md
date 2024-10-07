@@ -28,30 +28,3 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 
 ## 🏆 GitHub Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
-# Welcome to My GitHub Profile
-
-## Overview
-I’m Amit Thakur, a passionate developer focusing on machine learning and data analysis.
-
-## My GitHub Level
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
-
-## Current Projects 🏅
-- **Project A**: [Link to Project A](your-project-a-link)  
-- **Project B**: [Link to Project B](your-project-b-link)  
-- **Project C**: [Link to Project C](your-project-c-link)  
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitthakur456&layout=compact&theme=radical)
-
-## Contact
-Feel free to reach out on [LinkedIn](your-linkedin-url) or [Twitter](your-twitter-url).
-
