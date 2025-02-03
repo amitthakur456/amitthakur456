@@ -1,6 +1,3 @@
-![Lion](https://your-image-link.com/lion.jpg)
-![Lion](lion.jpg)
-
 ## Hello, I'm Amit Thakur 👋
 
 ## 🚀 About Me
