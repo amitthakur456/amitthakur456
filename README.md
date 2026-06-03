@@ -1,30 +1,115 @@
-## Hello, I'm Amit Thakur 👋
+# Hi 👋, I'm Amit Thakur
+
+### AI/ML Engineer | Data Science Enthusiast | Open Source Learner
+
+🎓 B.Tech CSE (AIML) Student passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+
+Currently building real-world AI solutions and preparing for Software Engineering and AI/ML roles.
+
+---
 
 ## 🚀 About Me
 
-I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
+* 🎓 B.Tech in Computer Science & Engineering (AIML)
+* 💼 AI/ML Intern at Maincrafts Technology
+* 🤖 Building Machine Learning, Deep Learning, and Generative AI Projects
+* 📊 Strong interest in Data Science, MLOps, and Cloud AI
+* 🌱 Currently learning Advanced DSA, System Design, and MLOps
+* 🎯 Targeting Software Engineer & AI/ML Engineer roles at top tech companies
+* 💡 Passionate about solving real-world problems using AI
 
-- 🔭 Currently working on several innovative Machine Learning and Web Development projects.
-- 🌱 Learning more about Data Structures and Algorithms in Python and JavaScript.
-- 💬 Feel free to ask me anything related to Machine Learning or Full-Stack Development.
-- 📫 Connect with me on [LinkedIn]()
+---
 
-## 🛠️ Languages & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Tech Stack
 
-## 💻 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitthakur456&layout=compact&theme=radical)
+### Programming Languages
 
-## 📈 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitthakur456&show_icons=true&theme=radical)
+* Python
+* Java
+* SQL
+* JavaScript
 
-## 📈 GitHub Contributions
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amitthakur456&theme=radical)
+### Machine Learning & AI
 
-## 🏆 GitHub Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitthakur456&theme=radical)
+* Scikit-Learn
+* TensorFlow
+* Keras
+* PyTorch
+* Hugging Face
+* OpenCV
+
+### Data Science
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+
+### MLOps & Deployment
+
+* Git
+* GitHub
+* Docker
+* MLflow
+* FastAPI
+* Streamlit
+
+### Cloud & Databases
+
+* Microsoft Azure
+* MySQL
+* MongoDB
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Brain Tumor Classification
+
+Deep Learning model for medical image classification with explainability techniques.
+
+### 📰 Fake News Detection using NLP
+
+Built LSTM and Transformer-based models for fake news classification.
+
+### 🚗 Car Color Detection System
+
+Computer Vision application for traffic monitoring and vehicle analysis.
+
+### 🌍 Disaster Risk Classification System
+
+Machine Learning model for predicting disaster-prone regions using geographical and demographic features.
+
+### 👴 Senior Citizen Detection System
+
+Real-time age and gender detection using Deep Learning and OpenCV.
+
+---
+
+## 📈 Current Focus
+
+* Large Language Models (LLMs)
+* Generative AI Applications
+* MLOps & Model Deployment
+* Deep Learning Research
+* Microsoft Placement Preparation
+
+---
+
+## 🏆 Achievements
+
+* AI/ML Internship Experience
+* Great Learning Certifications in Python, Pandas, and Machine Learning
+* Active GitHub Contributor
+* Multiple End-to-End Machine Learning Projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+* GitHub: https://github.com/amitthakur456
+* Email: [amitthakur73059@gmail.com](mailto:amitthakur73059@gmail.com)
+
+“Turning Data into Intelligence and Ideas into Innovation.”
