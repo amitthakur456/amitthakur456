@@ -1,115 +1,93 @@
-# Hi 👋, I'm Amit Thakur
+# Hi, I'm Amit Thakur 👋
 
-### AI/ML Engineer | Data Science Enthusiast | Open Source Learner
+### AI/ML Engineer | Data Analyst | Python Developer
 
-🎓 B.Tech CSE (AIML) Student passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+I am a Computer Science and Engineering professional focused on Artificial Intelligence and Machine Learning. I enjoy exploring data, building predictive models, and developing Python applications that solve practical problems.
 
-Currently building real-world AI solutions and preparing for Software Engineering and AI/ML roles.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in Computer Science & Engineering (AIML)
-* 💼 AI/ML Intern at Maincrafts Technology
-* 🤖 Building Machine Learning, Deep Learning, and Generative AI Projects
-* 📊 Strong interest in Data Science, MLOps, and Cloud AI
-* 🌱 Currently learning Advanced DSA, System Design, and MLOps
-* 🎯 Targeting Software Engineer & AI/ML Engineer roles at top tech companies
-* 💡 Passionate about solving real-world problems using AI
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 💼 AI/ML internship experience at Maincrafts Technology
+- 📊 Interested in data analytics, predictive modelling, and business insights
+- 🤖 Interested in machine learning, NLP, and computer vision
+- 🌱 Continuously improving my skills in SQL, statistics, model evaluation, and deployment
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
-### Programming Languages
-
-* Python
-* Java
-* SQL
-* JavaScript
-
-### Machine Learning & AI
-
-* Scikit-Learn
-* TensorFlow
-* Keras
-* PyTorch
-* Hugging Face
-* OpenCV
-
-### Data Science
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-
-### MLOps & Deployment
-
-* Git
-* GitHub
-* Docker
-* MLflow
-* FastAPI
-* Streamlit
-
-### Cloud & Databases
-
-* Microsoft Azure
-* MySQL
-* MongoDB
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL, Java, JavaScript, C++ |
+| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn, Plotly, EDA |
+| Machine Learning | Scikit-learn, classification, regression, feature engineering, model evaluation |
+| NLP & Computer Vision | TF-IDF, text classification, OpenCV, YOLO |
+| App Development | Streamlit, Flask, FastAPI |
+| Tools | Git, GitHub, Jupyter Notebook |
 
 ---
 
-## 🔥 Featured Projects
+## Selected Projects
 
-### 🧠 Brain Tumor Classification
+### [Telco Customer Churn Prediction](https://github.com/amitthakur456/telco-customer-churn-prediction)
 
-Deep Learning model for medical image classification with explainability techniques.
+Customer churn analysis and prediction project with an interactive analytics workflow.
 
-### 📰 Fake News Detection using NLP
+**Focus:** Python, Pandas, EDA, Scikit-learn, Streamlit, Plotly
 
-Built LSTM and Transformer-based models for fake news classification.
+### [Predictive Maintenance Analysis](https://github.com/amitthakur456/Predictive-Maintenance-Analysis)
 
-### 🚗 Car Color Detection System
+Exploratory analysis of predictive-maintenance data to investigate patterns related to equipment failure.
 
-Computer Vision application for traffic monitoring and vehicle analysis.
+**Focus:** Python, Pandas, Jupyter Notebook, data analysis
 
-### 🌍 Disaster Risk Classification System
+### [Support Ticket Prediction](https://github.com/amitthakur456/Support-Ticket-Prediction)
 
-Machine Learning model for predicting disaster-prone regions using geographical and demographic features.
+NLP-oriented project exploring support-ticket classification and priority prediction.
 
-### 👴 Senior Citizen Detection System
+**Focus:** Python, text preprocessing, NLP, machine learning
 
-Real-time age and gender detection using Deep Learning and OpenCV.
+### [Breast Cancer Prediction](https://github.com/amitthakur456/Breast_Cancer_Prediction)
 
----
+Machine-learning classification project using a breast-cancer dataset.
 
-## 📈 Current Focus
+**Focus:** Python, Scikit-learn, classification
 
-* Large Language Models (LLMs)
-* Generative AI Applications
-* MLOps & Model Deployment
-* Deep Learning Research
-* Microsoft Placement Preparation
+### [Brain Tumor Classification](https://github.com/amitthakur456/Brain-_Tumors_Classification)
 
----
+Computer-vision project repository focused on brain-tumor image classification.
 
-## 🏆 Achievements
+**Focus:** Python, image data, deep learning
 
-* AI/ML Internship Experience
-* Great Learning Certifications in Python, Pandas, and Machine Learning
-* Active GitHub Contributor
-* Multiple End-to-End Machine Learning Projects
+### [Disaster-Prone Area Model Classification](https://github.com/amitthakur456/Disaster_Prone_Area_Model_Classification)
+
+Machine-learning project exploring classification of disaster-prone areas.
+
+**Focus:** Python, machine learning, data analysis
 
 ---
 
-## 📫 Connect With Me
+## Current Learning Focus
 
-* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* GitHub: https://github.com/amitthakur456
-* Email: [amitthakur73059@gmail.com](mailto:amitthakur73059@gmail.com)
+- SQL, data cleaning, exploratory data analysis, and analytical storytelling
+- Machine-learning pipelines, validation, and model performance
+- NLP, computer vision, and practical AI applications
+- Model deployment and API fundamentals
 
-“Turning Data into Intelligence and Ideas into Innovation.”
+---
+
+## Certifications & Achievements
+
+- Introduction to Machine Learning — Great Learning Academy
+- Python Pandas — Great Learning Academy
+- HackerRank Bronze Badge
+
+---
+
+## Connect With Me
+
+- **GitHub:** [amitthakur456](https://github.com/amitthakur456)
+- **Email:** [amitthakur73059@gmail.com](mailto:amitthakur73059@gmail.com)
+- **LinkedIn:** Add your verified LinkedIn profile URL
+
+---
+
+*Learning by building, analysing, and continuously improving.*
